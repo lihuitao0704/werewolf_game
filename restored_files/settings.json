@@ -1,0 +1,5 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "python.createEnvironment.trigger": "off"
+}
